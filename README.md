@@ -1,4 +1,5 @@
-might learn assembly :3
+learning web development 
+might learn c/c++
 <br />
 
 [![GitHubStats](https://github-readme-stats.vercel.app/api?username=fugni&show_icons=true&theme=radical)](#)
